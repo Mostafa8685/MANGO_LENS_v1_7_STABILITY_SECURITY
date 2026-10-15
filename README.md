@@ -1,0 +1,2 @@
+# MANGO_LENS_v1_7_STABILITY_SECURITY
+Flutter project created by KLENCOD IDE
